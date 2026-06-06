@@ -76,18 +76,10 @@ The final submission is contained entirely within a single Google Colab Notebook
 
 | Requirement | Description |
 | --- | --- |
-| **Code Execution** | The notebook runs fully from top to bottom, handling data processing, model calibration, and metric output without errors.
-
- |
-| **Markdown as Report** | Integrated markdown cells explain stochastic calculus concepts, justify choices, and outline limitations.
-
- |
-| **Code Quality** | The codebase is Pythonic and modular, utilizing clear inline comments (written in Spanish per project configuration) to explain complex mathematical steps.
-
- |
-| **Access** | The Colab link sharing is configured to "Anyone with the link can view".
-
- |
+| **Code Execution** | The notebook runs fully from top to bottom, handling data processing, model calibration, and metric output without errors. |
+| **Markdown as Report** | Integrated markdown cells explain stochastic calculus concepts, justify choices, and outline limitations. |
+| **Code Quality** | The codebase is Pythonic and modular, utilizing clear inline comments (written in Spanish per project configuration) to explain complex mathematical steps. |
+| **Access** | The Colab link sharing is configured to "Anyone with the link can view". |
 
  ### Submission
 submitted by :- Kush
